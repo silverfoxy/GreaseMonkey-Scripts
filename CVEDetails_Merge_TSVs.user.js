@@ -2,7 +2,7 @@
 // @name        CVEDetails Merge TSVs
 // @namespace   http://www.cvedetails.com/
 // @description Merges all TSVs and downloads them as a single file (Using Download Results)
-// @include     http://www.cvedetails.com/vulnerability-list.php*
+// @include     *://www.cvedetails.com/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // ==/UserScript==
 
